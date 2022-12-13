@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\HP\laravel-fileupload\resources\views/submit.blade.php ENDPATH**/ ?>
